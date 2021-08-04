@@ -1,0 +1,17 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "acc:dirt_zip",
+      "category":"Nature"
+    },
+
+    "components": {
+      "minecraft:icon": {
+        "texture": "dirt_zip"
+      },
+      "minecraft:foil": true,
+      "minecraft:hand_equipped": true
+    }
+  }
+}

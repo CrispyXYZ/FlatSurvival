@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:block_of_dirt_zip"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ZZZ",
+      "Z Z",
+      "ZZZ"
+    ],
+    "key": {
+      "Z": {
+        "item": "acc:dirt_zip"
+      }
+    },
+    "result": {
+      "item": "acc:block_of_dirt_zip",
+      "count": 1
+    }
+  }
+}

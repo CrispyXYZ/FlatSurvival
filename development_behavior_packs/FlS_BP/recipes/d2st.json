@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:d2st"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:dirt",
+        "count": 3
+      }
+    ],
+    "result": {
+      "item": "minecraft:stick",
+      "count": 1
+    }
+  }
+}

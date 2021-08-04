@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§7§oMade by CrispyXYZ",
+        "name": "[RP]Flat Survival",
+        "uuid": "999f8cba-5454-481a-8730-8d070a8e2e58",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "99fccbca-7bad-4f4f-aa97-d98108e6aa33",
+            "version": [1, 0, 0]
+        }
+    ]
+}

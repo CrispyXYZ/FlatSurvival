@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:d2sd"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "DDD",
+      "DSD",
+      "DDD"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:dirt"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:stone",
+      "count": 1
+    }
+  }
+}

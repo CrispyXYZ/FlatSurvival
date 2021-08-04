@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:dirt_golem"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " B ",
+      " A ",
+      " B "
+    ],
+    "key": {
+      "B": {
+        "item": "acc:block_of_dirt_zip"
+      },
+      "A": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "result": {
+      "item": "acc:dirt_golem_spawn_egg",
+      "count": 1
+    }
+  }
+}

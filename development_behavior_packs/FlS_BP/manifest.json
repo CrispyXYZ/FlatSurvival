@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Tips:\nIf you wan't to make life easier, please enable §eEducation Edition§f\nIf you wan't to enable dirt golem, please enable all the §eExperimental Gameplay§r(except Caves&Cliffs).\n§7§oMade by CrispyXYZ",
+        "name": "[BP]Flat Survival",
+        "uuid": "fe9f8cba-5454-481a-8730-8d070a8e2e58",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "79fccbca-7bad-4f4f-aa97-d98108e6aa33",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+      {
+        "uuid": "999f8cba-5454-481a-8730-8d070a8e2e58",
+        "version": [1, 0, 0]
+      }
+    ]
+}

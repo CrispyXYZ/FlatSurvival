@@ -1,0 +1,8 @@
+entity.acc:dirt_golem.name=Dirt Golem
+
+item.spawn_egg.entity.acc:dirt_golem.name=Spawn Dirt Golem
+item.acc:dirt_zip.name=Compressed Dirt
+item.acc:dirt_zip=Compressed Dirt
+
+tile.acc:block_of_dirt_zip.name=Block of Compressed Dirt
+tile.acc:block_of_dirt_zip=Block of Compressed Dirt

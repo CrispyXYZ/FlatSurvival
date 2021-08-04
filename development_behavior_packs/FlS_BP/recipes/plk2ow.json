@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:plk2ow"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:planks",
+        "count": 4,
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:log",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

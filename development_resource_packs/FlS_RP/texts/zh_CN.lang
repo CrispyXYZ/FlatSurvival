@@ -1,0 +1,8 @@
+entity.acc:dirt_golem.name=泥土傀儡
+
+item.spawn_egg.entity.acc:dirt_golem.name=生成泥土傀儡
+item.acc:dirt_zip.name=压缩泥土
+item.acc:dirt_zip=压缩泥土
+
+tile.acc:block_of_dirt_zip.name=压缩泥土块
+tile.acc:block_of_dirt_zip=压缩泥土块

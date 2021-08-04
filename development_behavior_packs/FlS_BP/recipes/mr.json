@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:mr"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "PPP",
+      "I I",
+      "PPP"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:planks",
+        "data": 0
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:chemistry_table",
+      "count": 1,
+      "data": 4
+    }
+  }
+}

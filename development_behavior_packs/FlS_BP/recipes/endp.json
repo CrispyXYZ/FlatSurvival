@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:endp"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "DDD",
+      "DOD",
+      "DDD"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "O": {
+        "item": "minecraft:ice_bomb"
+      }
+    },
+    "result": {
+      "item": "minecraft:ender_pearl",
+      "count": 1
+    }
+  }
+}

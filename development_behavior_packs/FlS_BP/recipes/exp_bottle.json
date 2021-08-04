@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:exp_bottle"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "RLR",
+      "LBL",
+      "RLR"
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:iron_nugget"
+      },
+      "L": {
+        "item": "minecraft:diamond"
+      },
+      "B": {
+        "item": "minecraft:glass_bottle"
+      }
+    },
+    "result": {
+      "item": "minecraft:experience_bottle",
+      "data": 0,
+      "count": 8
+    }
+  }
+}
